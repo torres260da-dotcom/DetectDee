@@ -1,4 +1,4 @@
-# DetectDee
+soock320 DetectDee
 <font color="red">*Disclaimer: This article and this tool are for technical discussion and sharing only. Illegal use is strictly prohibited.</font>
 
 DetectDee: Hunt down social media accounts by **username, email or phone** across [social networks](site.md)
